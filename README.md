@@ -1,6 +1,5 @@
 
 
-````markdown
 # Embrione — Team Management Platform
 
 A web-based team management platform that allows students to register their profiles, submit personal and professional information, and become part of a team directory after administrator approval.
